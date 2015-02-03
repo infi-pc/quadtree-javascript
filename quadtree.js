@@ -247,3 +247,5 @@ QUAD.init = function (args) {
         }
     };
 };
+
+module.exports = QUAD;
